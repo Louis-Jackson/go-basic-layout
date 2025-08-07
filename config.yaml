@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+database:
+  host: "localhost"
+  user: "root"
+  password: "Cug@2025"
+  dbname: "mobile-work"
